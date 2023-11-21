@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **manikantanamo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12zGxo2oEHetObviSfO4fFj_tBcZU28c6/view?usp=drive_link](https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing](https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
