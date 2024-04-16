@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Namo Manikanta Sai</h1>
-<h3 align="center">Passionate MERN Stack Developer & Data Analyst with a Strong Enthusiasm for DSA 🚀</h3>
+<h3 align="center">Passionate MERN Stack Developer & Strong Enthusiasm for DSA 🚀</h3>
 
 <img align="right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta20-01&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta20-01" /> </p>
 
-- 🔭 I’m currently working on [Flight Booking Managment Service](https://github.com/manikanta20-01/Flight-search-service)
+- 🔭 I’m currently working on [Framespik Software Engineer Inern]
 
 - 🌱 I’m currently learning **React,Dsa,Nodejs**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **manikantanamo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing](https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ItcDVFQzhdM-SIVOIDvQPve8Oz_EtVPI/view?usp=sharing](https://docs.google.com/document/d/1jWJ0S7jLAxwAVuZ0TW2_hucPVn9C3QnkmveUWfV400Y/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
